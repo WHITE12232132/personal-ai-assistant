@@ -32,6 +32,7 @@ yarn-error.*
 
 # local env files
 .env*.local
+.env          # 课程的 MiMo key 在这里，绝不进 git
 
 # typescript
 *.tsbuildinfo
